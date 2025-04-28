@@ -2,7 +2,14 @@
 
 Bem-vindo ao repositório! Este projeto visa garantir a **qualidade e confiabilidade** de sistemas através de testes **End-to-End** (E2E) automatizados utilizando a poderosa ferramenta **Cypress**, com integração total ao **Azure DevOps** para automação de testes no **pipeline de CI/CD**. 
 
+
+##  Explore o repositório no Azure DevOps!
+Acesse o repositório no Azure DevOps: https://dev.azure.com/MatheusManoel45/_git/e2e-testing-cypress-azure
+
 Neste repositório, você encontrará tudo o que precisa para entender como os testes são executados e como o pipeline está configurado para rodar os testes automaticamente.
+
+✨ Confira o projeto no LinkedIn!
+Acesse o post sobre o projeto no LinkedIn: https://www.linkedin.com/in/matheus-manoel/ 
 
 ---
 
@@ -30,6 +37,7 @@ O grande diferencial deste projeto é a **integração contínua** com o **Azure
 - **Instalação de Node.js**: A versão 14.x do Node.js é instalada para garantir a compatibilidade com o Cypress.
 - **Execução de Testes**: O Cypress roda todos os testes E2E definidos, cobrindo casos de uso críticos como formulários, CEP, e-mail e responsividade.
 - **Publicação dos Resultados**: O Azure DevOps publica automaticamente os resultados dos testes para fácil monitoramento.
+
 
 Aqui está o **arquivo YAML** do pipeline configurado no Azure DevOps:
 
@@ -62,6 +70,7 @@ steps:
     testResultsFiles: '**/output.xml'
     mergeTestResults: true
     testRunTitle: 'Resultados dos Testes'
+
 🔧 Como Configurar o Azure DevOps Pipeline
 Para configurar este pipeline no seu próprio ambiente, siga os seguintes passos:
 
@@ -113,12 +122,5 @@ Abra um Pull Request.
 
 ---
 
-## 🔗 **Links Úteis**
-
-- **Post no LinkedIn**: 
-- **Projeto no Azure DevOps**: https://dev.azure.com/MatheusManoel45/_git/e2e-testing-cypress-azure
-
----
-
-Obrigado por conferir o projeto! 🚀
+Obrigado por conferir o projeto! 🌟
 
