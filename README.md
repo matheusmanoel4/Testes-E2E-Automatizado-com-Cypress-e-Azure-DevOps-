@@ -109,3 +109,16 @@ Faça suas alterações.
 Envie suas alterações para o repositório (git push origin feature/nome-da-funcionalidade).
 
 Abra um Pull Request.
+
+
+---
+
+## 🔗 **Links Úteis**
+
+- **Post no LinkedIn**: 
+- **Projeto no Azure DevOps**: https://dev.azure.com/MatheusManoel45/_git/e2e-testing-cypress-azure
+
+---
+
+Obrigado por conferir o projeto! 🚀
+
