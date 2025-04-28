@@ -9,6 +9,7 @@ Acesse o repositório no Azure DevOps: https://dev.azure.com/MatheusManoel45/_gi
 Neste repositório, você encontrará tudo o que precisa para entender como os testes são executados e como o pipeline está configurado para rodar os testes automaticamente.
 
 ✨ Confira o projeto no LinkedIn!
+
 Acesse o post sobre o projeto no LinkedIn: https://www.linkedin.com/in/matheus-manoel/ 
 
 ---
@@ -122,5 +123,16 @@ Abra um Pull Request.
 
 ---
 
+
+## 🙌 Agradecimentos
+
+Este projeto de automação foi inspirado em dicas e conceitos aprendidos através dos conteúdos do canal [Fernando Papito](https://www.youtube.com/@fernandopapito) no YouTube.
+
+A automação dos testes foi baseada em um sistema proposto no canal, adaptado e configurado para execução automatizada via Azure DevOps Pipelines.
+
+---
+
 Obrigado por conferir o projeto! 🌟
+
+
 
